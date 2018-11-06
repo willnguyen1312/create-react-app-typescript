@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts-ts",
+  "name": "creeptoma-custom-react-scripts-ts",
   "version": "3.1.0",
   "description": "TypeScript configuration and scripts for Create React App.",
-  "repository": "wmonk/create-react-app-typescript",
+  "repository": "willnguyen1312/create-react-app-typescript",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/wmonk/create-react-app-typescript/issues"
+    "url": "https://github.com/willnguyen1312/create-react-app-typescript/issues"
   },
   "files": [
     "bin",
